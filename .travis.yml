@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  _"7.7.1"
+script:
+  npm run build
+install:
+  - npm install -g firebase-tools
+after_success:
+  - firebase deploy --token $FIREBASE_TOKEN
+  
