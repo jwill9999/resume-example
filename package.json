@@ -1,0 +1,35 @@
+{
+  "name": "resume-example",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Single page resume using React",
+  "author": {
+    "name": "Jason Williams",
+    "email": "jwill9999@icloud.com"
+  },
+  "keywords": [
+    "React",
+    "single-page",
+    "scroll",
+    "contactForm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
