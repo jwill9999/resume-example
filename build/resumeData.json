@@ -1,0 +1,197 @@
+{
+  "main": {
+    "name":"Henri Leroy",
+    "occupation":"PhotoJournalist and Documentary Photographer. ",
+    "description":"I travel the world with my camera and tell storys in a way no other media can.",
+    "image":"profilepic.jpg",
+    "bio":"I am a French Photographer and I have worked in PhotoJournalism now for 15 years. I have had the opportunity to travel the world and document some of the most important events in history",
+    "email": "henrileroy@gmail.com",
+    "phone": "526-721-9318",
+    "address":{
+      "street":"17 Rue des Quatre Vents",
+      "city":"Paris",
+      "state":"France",
+      "zip": "75006"
+    },
+    "website": "http://www.parisphoto.com/paris/exhibitors",
+    "resumedownload":"#",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"http://linkedin.com",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"The SFC College of Art",
+        "degree":"Bachelor",
+        "graduated":"April 2004",
+        "description":"Bachelor at the college of Art where I studied a broad aspect of skill sets including Photography and typography."
+      },
+      {
+        "school":"The AB Photography Institute",
+        "degree":"Diploma in Photography",
+        "graduated":"March 2006",
+        "description":"Completed and graduated with the Diploma in Photography at the AB Photography Institute."
+      }
+    ],
+    "work":[
+      {
+        "company":"Block Media, Paris",
+        "title":"Senior Photographer ",
+        "years":"March 2009 - present",
+        "description":"Senior Photographer undertaking all aspects including strobes , photojournalism, documentary photography, Advanced Photoshop editing, and managed a team of Junior staff in a large commercial studio."
+      },
+      {
+        "company":"Eagle Production, Paris",
+        "title":"Junior Photographer",
+        "years":"March 2005 - February 2009",
+        "description":"Consolidating my knowledge and developing my studio skills set .Mastered the art of Photoshop and digital editing."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Photoshop",
+        "level":"40%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"25%"
+      },
+      {
+        "name":"Photography",
+        "level":"70%"
+      },
+      {
+        "name":"Branding",
+        "level":"30%"
+      },
+      {
+        "name":"Education",
+        "level":"50%"
+      }
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Mystic",
+        "description":"An image taking for a commercial project",
+        "category":"Photoshop",
+        "tags":"Branding, Web Design",
+        "image":"mystic.jpg",
+        "url":"http://port1.com",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"Console",
+        "description":"A project for a travel blog taking with a digital camera and edited in photoshop.",
+        "category":"Photograhy",
+        "tags":"Branding, Photography",
+        "image":"console.jpg",
+        "url":"http://port2.com",
+        "modal":"#modal-02"
+      },
+      {
+        "title":"Judah",
+        "description":"A professional photoshoot for a cosmetic company. Advanced Photoshop retouching.",
+        "category":"Photoshop, Photography",
+        "tags":"Branding, Photography",
+        "image":"judah.jpg",
+        "url":"http://port3.com",
+        "modal":"#modal-03"
+      },
+      {
+        "title":"Into The Light",
+        "description":"Photojournalist imagery taken for a magazine documenting the history of the sport .",
+        "category":"Photography",
+        "tags":"Photography",
+        "image":"into-the-light.jpg",
+        "url":"http://port4.com",
+        "modal":"#modal-04"
+      },
+      {
+        "title":"Carlmer",
+        "description":"An editorial image for a top fashion magazine",
+        "category":"Branding",
+        "tags":"Branding,Photography",
+        "image":"carlmer.jpg",
+        "url":"http://port5.com",
+        "modal":"#modal-05"
+      },
+      {
+        "title":"Forgotten",
+        "description":"A documentary image as part of a larger project for an international charity.",
+        "category":"Photography",
+        "tags":"Photography",
+        "image":"forgotten.jpg",
+        "url":"http://port6.com",
+        "modal":"#modal-06"
+      },
+      {
+        "title":"The Street",
+        "description":"This image was for a commercial stylist and magazine editorial.",
+        "category":"Photography",
+        "tags":"Branding, Photoshop",
+        "image":"thestreet.jpg",
+        "url":"http://port7.com",
+        "modal":"#modal-07"
+      },
+      {
+        "title":"The young one",
+        "description":"This image was taken for a world wide Fashion store specialising in menswear.",
+        "category":"Photography",
+        "tags":"Photography",
+        "image":"theyoungone.jpg",
+        "url":"http://port8.com",
+        "modal":"#modal-08"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"We used Henri to take images on our behalf for a recent multi-million pound project. He completely understood the brief and his shots were well taken, striking and wonderfully framed. Henri is a punctual, polite and trustworthy individual who I wouldn’t hesitate to recommend to others as we will definitely be using him for future projects. He is a pleasure to work with.",
+        "user":"Laura Evans"
+      },
+      {
+        "text":"We approached Henri with an 11th hour request to photograph a building we had just re-branded. We were on a very tight deadline to produce the promotional material, ready for a launch party the following week. Henri was incredibly accommodating, and made himself available for the following day The photographs were excellent and met with the client’s approval, so much so that he also became the photographer for the launch event! Henri is highly personable and professional and I have no hesitation in recommending him.",
+        "user":"Steven Lauder (Director)"
+      }
+    ]
+  }
+}
