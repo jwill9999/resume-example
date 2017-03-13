@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+require ('../../public/resumeData.json');
 
 class About extends Component {
   render() {

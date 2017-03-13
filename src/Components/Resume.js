@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+
 class Resume extends Component {
   render() {
     if(this.props.data){
