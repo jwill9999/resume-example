@@ -1,6 +1,7 @@
 language: node_js
 node_js:
-  _"6.10.0"
+-"iojs""
+-"6"
 script:
   npm run build
 install:
