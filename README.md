@@ -1,3 +1,34 @@
+
+
+
+
+
+# React Single Page Resume 
+
+```
+> git clone https://github.com/jwill9999/resume-example.git
+> cd resume-example
+> npm install
+> npm start
+```
+
+## Project preview
+
+![](./public/images/image1.png)
+![](./public/images/image3.png)
+![](./public/images/image2.png)
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
